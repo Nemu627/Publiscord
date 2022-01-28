@@ -1,0 +1,1 @@
+from publisher.main import *
