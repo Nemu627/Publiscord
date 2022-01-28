@@ -26,7 +26,7 @@ client = discord.Client(intents=intents)
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 
-bot.load_extension('publisher')
+bot.load_extension('publiscord')
 
 
 bot.run("token")
